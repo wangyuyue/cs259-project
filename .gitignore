@@ -1,0 +1,6 @@
+hw/proj*/
+hw/vitis_hls.log
+sw/data/
+sw/__pycache__/
+sw/test.py
+sw/models/
